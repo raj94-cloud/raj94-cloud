@@ -28,7 +28,7 @@ Projects related to:
 - **IaC:** Terraform, CloudFormation
 - **CI/CD:** GitHub Actions, Jenkins
 - **Containers:** Docker, Kubernetes
-- **Languages:** Python, Bash
+- **Languages:** Python(AWS Boto3), Bash
 - **Monitoring:** Prometheus, Grafana, CloudWatch
 
 ---
